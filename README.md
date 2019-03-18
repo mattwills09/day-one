@@ -1,0 +1,2 @@
+# day-one
+learning git
